@@ -1,0 +1,22 @@
+.climate-crisis-uniquifier {
+    font-size: 60px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 15px;
+    
+}
+
+.title2 {
+    font-family: sans-serif;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.quisredirect1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: xx-large;
+}
